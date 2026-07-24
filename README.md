@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/annalakshmia910-art/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/annalakshmia910-art/leetcode/tree/master/0007-reverse-integer) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/annalakshmia910-art/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/annalakshmia910-art/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
