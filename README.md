@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/annalakshmia910-art/leetcode/tree/master/0709-to-lower-case) |
 ## Stack
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
