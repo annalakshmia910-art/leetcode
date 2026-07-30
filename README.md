@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/annalakshmia910-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/annalakshmia910-art/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/annalakshmia910-art/leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/annalakshmia910-art/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/annalakshmia910-art/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/annalakshmia910-art/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/annalakshmia910-art/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/annalakshmia910-art/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/annalakshmia910-art/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/annalakshmia910-art/leetcode/tree/master/0068-text-justification) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/annalakshmia910-art/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
