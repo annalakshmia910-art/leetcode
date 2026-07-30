@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/annalakshmia910-art/leetcode/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/annalakshmia910-art/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/annalakshmia910-art/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/annalakshmia910-art/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/annalakshmia910-art/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/annalakshmia910-art/leetcode/tree/master/0072-edit-distance) |
 ## Sorting
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/annalakshmia910-art/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/annalakshmia910-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
