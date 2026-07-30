@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/annalakshmia910-art/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/annalakshmia910-art/leetcode/tree/master/0035-search-insert-position) |
+| [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
