@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/annalakshmia910-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/annalakshmia910-art/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/annalakshmia910-art/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/annalakshmia910-art/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/annalakshmia910-art/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/annalakshmia910-art/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/annalakshmia910-art/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/annalakshmia910-art/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/annalakshmia910-art/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/annalakshmia910-art/leetcode/tree/master/0072-edit-distance) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/annalakshmia910-art/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/annalakshmia910-art/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/annalakshmia910-art/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
@@ -209,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/annalakshmia910-art/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/annalakshmia910-art/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
