@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/annalakshmia910-art/leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/annalakshmia910-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/annalakshmia910-art/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/annalakshmia910-art/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
 | ------- |
