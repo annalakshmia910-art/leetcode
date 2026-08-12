@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0136-single-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,4 +240,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/annalakshmia910-art/leetcode/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
