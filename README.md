@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/annalakshmia910-art/leetcode/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Bit Manipulation
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/annalakshmia910-art/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/annalakshmia910-art/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/annalakshmia910-art/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/annalakshmia910-art/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/annalakshmia910-art/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/annalakshmia910-art/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/annalakshmia910-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0724-find-pivot-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
