@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/annalakshmia910-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/annalakshmia910-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/annalakshmia910-art/leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/annalakshmia910-art/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/annalakshmia910-art/leetcode/tree/master/0075-sort-colors) |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -228,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -290,4 +295,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
