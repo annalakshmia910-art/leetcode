@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/annalakshmia910-art/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/annalakshmia910-art/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/annalakshmia910-art/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/annalakshmia910-art/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/0076-minimum-window-substring) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/annalakshmia910-art/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/annalakshmia910-art/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/annalakshmia910-art/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0059-spiral-matrix-ii) |
