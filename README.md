@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/annalakshmia910-art/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annalakshmia910-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/annalakshmia910-art/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/annalakshmia910-art/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/annalakshmia910-art/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/annalakshmia910-art/leetcode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/annalakshmia910-art/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/annalakshmia910-art/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 ## String Matching
