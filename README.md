@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/annalakshmia910-art/leetcode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/annalakshmia910-art/leetcode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
