@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/annalakshmia910-art/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0344-reverse-string) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Depth-First Search
 |  |
@@ -398,9 +400,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
