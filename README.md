@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/annalakshmia910-art/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/annalakshmia910-art/leetcode/tree/master/0709-to-lower-case) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -393,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0324-wiggle-sort-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
