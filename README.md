@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/annalakshmia910-art/leetcode/tree/master/0709-to-lower-case) |
 | [1408-string-matching-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/annalakshmia910-art/leetcode/tree/master/0072-edit-distance) |
+| [1668-maximum-repeating-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/annalakshmia910-art/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Depth-First Search
 |  |
 | ------- |
