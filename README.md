@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/annalakshmia910-art/leetcode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/annalakshmia910-art/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [1408-string-matching-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/annalakshmia910-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0724-find-pivot-index) |
+| [0806-number-of-lines-to-write-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/annalakshmia910-art/leetcode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
