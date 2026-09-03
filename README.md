@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/annalakshmia910-art/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/annalakshmia910-art/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/annalakshmia910-art/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/annalakshmia910-art/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/annalakshmia910-art/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/annalakshmia910-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
