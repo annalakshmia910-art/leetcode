@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0493-reverse-pairs) |
+| [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/annalakshmia910-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0724-find-pivot-index) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/annalakshmia910-art/leetcode/tree/master/0072-edit-distance) |
+| [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
 | [1668-maximum-repeating-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sorting
 |  |
@@ -498,4 +500,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
