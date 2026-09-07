@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annalakshmia910-art/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/annalakshmia910-art/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/annalakshmia910-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/annalakshmia910-art/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annalakshmia910-art/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/annalakshmia910-art/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
