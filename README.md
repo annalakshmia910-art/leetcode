@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/annalakshmia910-art/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/annalakshmia910-art/leetcode/tree/master/0164-maximum-gap) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/annalakshmia910-art/leetcode/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/annalakshmia910-art/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
 | [1668-maximum-repeating-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Sorting
