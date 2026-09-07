@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/annalakshmia910-art/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/annalakshmia910-art/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/annalakshmia910-art/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 ## Recursion
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/annalakshmia910-art/leetcode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/annalakshmia910-art/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/annalakshmia910-art/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/annalakshmia910-art/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annalakshmia910-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/annalakshmia910-art/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/annalakshmia910-art/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annalakshmia910-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0493-reverse-pairs) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annalakshmia910-art/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/annalakshmia910-art/leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/annalakshmia910-art/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
