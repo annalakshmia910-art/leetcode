@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/annalakshmia910-art/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/annalakshmia910-art/leetcode/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/annalakshmia910-art/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/annalakshmia910-art/leetcode/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
 ## Greedy
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/annalakshmia910-art/leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -524,4 +530,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
