@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/annalakshmia910-art/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/annalakshmia910-art/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/annalakshmia910-art/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/annalakshmia910-art/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/annalakshmia910-art/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/annalakshmia910-art/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Two Pointers
