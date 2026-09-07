@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/annalakshmia910-art/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/annalakshmia910-art/leetcode/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/annalakshmia910-art/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/annalakshmia910-art/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/annalakshmia910-art/leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annalakshmia910-art/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
