@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/annalakshmia910-art/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/annalakshmia910-art/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/annalakshmia910-art/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/annalakshmia910-art/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/annalakshmia910-art/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/annalakshmia910-art/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/annalakshmia910-art/leetcode/tree/master/0164-maximum-gap) |
