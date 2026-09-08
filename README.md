@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/annalakshmia910-art/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/annalakshmia910-art/leetcode/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/annalakshmia910-art/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/annalakshmia910-art/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1122-relative-sort-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/annalakshmia910-art/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/annalakshmia910-art/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/annalakshmia910-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -606,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/annalakshmia910-art/leetcode/tree/master/1044-longest-duplicate-substring) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
