@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/annalakshmia910-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/annalakshmia910-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -614,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/annalakshmia910-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
