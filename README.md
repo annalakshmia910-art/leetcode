@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/annalakshmia910-art/leetcode/tree/master/0460-lfu-cache) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/annalakshmia910-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/annalakshmia910-art/leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/annalakshmia910-art/leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/annalakshmia910-art/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1122-relative-sort-array) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/annalakshmia910-art/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/annalakshmia910-art/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/annalakshmia910-art/leetcode/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -624,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/annalakshmia910-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/annalakshmia910-art/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
