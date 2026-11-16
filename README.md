@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/annalakshmia910-art/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/annalakshmia910-art/leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/annalakshmia910-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/annalakshmia910-art/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/annalakshmia910-art/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/annalakshmia910-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/annalakshmia910-art/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/annalakshmia910-art/leetcode/tree/master/0460-lfu-cache) |
 ## Prefix Sum
@@ -645,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/annalakshmia910-art/leetcode/tree/master/0460-lfu-cache) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/annalakshmia910-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
