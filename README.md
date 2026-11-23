@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/annalakshmia910-art/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/annalakshmia910-art/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/annalakshmia910-art/leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/annalakshmia910-art/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/annalakshmia910-art/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/annalakshmia910-art/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/annalakshmia910-art/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/annalakshmia910-art/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/annalakshmia910-art/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/annalakshmia910-art/leetcode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/annalakshmia910-art/leetcode/tree/master/0980-unique-paths-iii) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/annalakshmia910-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/annalakshmia910-art/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
