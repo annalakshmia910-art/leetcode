@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/annalakshmia910-art/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/annalakshmia910-art/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/annalakshmia910-art/leetcode/tree/master/1046-last-stone-weight) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/annalakshmia910-art/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/annalakshmia910-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/annalakshmia910-art/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -666,9 +670,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
