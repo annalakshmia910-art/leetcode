@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/annalakshmia910-art/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/annalakshmia910-art/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/annalakshmia910-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/annalakshmia910-art/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/annalakshmia910-art/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/annalakshmia910-art/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/annalakshmia910-art/leetcode/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/annalakshmia910-art/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
@@ -660,4 +663,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/annalakshmia910-art/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
