@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/annalakshmia910-art/leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/annalakshmia910-art/leetcode/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/annalakshmia910-art/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/annalakshmia910-art/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/annalakshmia910-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/annalakshmia910-art/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/annalakshmia910-art/leetcode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/annalakshmia910-art/leetcode/tree/master/1514-path-with-maximum-probability) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/annalakshmia910-art/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
